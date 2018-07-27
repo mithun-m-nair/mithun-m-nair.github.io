@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Mithun M Nair-Blog
+description: Basic overview of me and my works
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "http://mithun-m-nair.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,9 +9,9 @@ username: Mithun M Nair
 user_description: I am an undergraduate student interested in open source development. I am familiar with C/C++ and Python. I am also experienced in mechanical design and simulation.
 user_title: Aspiring Open Source Developer
 email: mithunmnair1@gmail.com
-twitter_username: lorem_ipsum
+twitter_username: 
 github_username:  mithun-m-nair
-gplus_username:  lorem_ipsum
+gplus_username:  
 
 # Google-analytics
 google-analytics:
