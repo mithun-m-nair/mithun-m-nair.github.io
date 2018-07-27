@@ -2,7 +2,7 @@
 title: Mithun M Nair-Blog
 description: Basic overview of me and my works
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "http://mithun-m-nair.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://mithun-m-nair.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mithun M Nair
