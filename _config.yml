@@ -5,6 +5,7 @@ description: Basic overview of me and my works
 url: "https://mithun-m-nair.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
+avatar: "/img/Mithun.png"
 username: Mithun M Nair
 user_description: I am an undergraduate student interested in open source development. I am familiar with C/C++ and Python. I am also experienced in mechanical design and simulation.
 user_title: Aspiring Open Source Developer
